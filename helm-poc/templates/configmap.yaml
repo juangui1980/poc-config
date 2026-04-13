@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: poc-config
 data:
-  message.txt: |
-    Juangui los saluda con ArgoCD
+  message.txt: |-
+    Juangui los saluda con ArgoCD...yupiiii!!!!
