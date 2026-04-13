@@ -4,4 +4,4 @@ metadata:
   name: poc-config
 data:
   message.txt: |-
-    Juangui los saluda con ArgoCD aaaaaaaaaahhh!!!
+    Juangui los saluda con ArgoCD 123!!!
