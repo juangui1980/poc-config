@@ -4,4 +4,4 @@ metadata:
   name: poc-config
 data:
   message.txt: |
-    Hola desde ArgoCD 🚀
+    Juangui los saluda con ArgoCD
