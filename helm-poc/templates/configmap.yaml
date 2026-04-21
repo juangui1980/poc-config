@@ -4,4 +4,4 @@ metadata:
   name: poc-config
 data:
   message.txt: |-
-    Juangui con ArgoCD 3456!!!
+    Juangui con ArgoCD QTO-2026!!!
